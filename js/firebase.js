@@ -36,7 +36,7 @@ $(document).ready(function () {
                         <p>${description}</p>
                     </div>
                     <div class="card-footer">
-                        
+                        <input type="button" class="btn btn-danger float-right" value="Delete">
                     </div>
                 </div>
             `
