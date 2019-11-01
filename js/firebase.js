@@ -67,7 +67,7 @@ $(document).ready(function () {
                 <label for="yourMine">What is your mine?</label><br>
                 <input class="form-control" type="text" placeholder="description" id="description">
         </div>
-        <input type="button" class="btn btn-success" id="submit" value="submit">
+        <input type="button" class="btn btn-block btn-success" id="submit" value="submit">
     </form>
         </div>
       </div>
