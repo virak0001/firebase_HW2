@@ -87,6 +87,11 @@ $(document).ready(function () {
        post:$post,
        description:$description
      })
+     $("#profile").val("");
+     $("#post").val("");
+     $("#description").val("")
+     $("#name").val();
+
   })
 })
     function udelete(userID) {
