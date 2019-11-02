@@ -90,7 +90,7 @@ $(document).ready(function () {
      $("#profile").val("");
      $("#post").val("");
      $("#description").val("")
-     $("#name").val();
+     $("#name").val("");
 
   })
 })
